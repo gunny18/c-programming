@@ -1,3 +1,6 @@
+#outputs
+bin/
+
 # Prerequisites
 *.d
 
